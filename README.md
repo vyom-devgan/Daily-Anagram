@@ -1,10 +1,10 @@
-# Daily Anagram Generator
+# LexiLoom: Daily Anagram Generator
 
-Anagram Generator is a Python tool designed to generate all possible anagrams of a given word and filter out meaningful words with definitions.
+LexiLoom is a Python tool designed to generate all possible anagrams of a given word and filter out meaningful words with definitions.
 
 ## Objective
 
-The main objective of Anagram Generator is to provide a tool for generating meaningful words from an input word by finding all possible anagrams and filtering out those with definitions.
+The main objective of LexiLoom is to provide a tool for generating meaningful words from an input word by finding all possible anagrams and filtering out those with definitions.
 
 ## Features
 
