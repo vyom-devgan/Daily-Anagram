@@ -1,4 +1,4 @@
-# Anagram Generator
+# Daily Anagram Generator
 
 Anagram Generator is a Python tool designed to generate all possible anagrams of a given word and filter out meaningful words with definitions.
 
